@@ -1,0 +1,16 @@
+Scala is a great programming language.
+Haskell is another great programming language.
+Java is also a wonderful programming language.
+OCaml is yet another very powerful programming language.
+I also think that the Racket programming language is really amazing!
+And of course we all love the simple yet extremely versatile Python programming language.
+Apple enthusiasts who also like to program are mostly interested in Swift.
+Web developers who rely mostly on the Rails framework, prefer to program in Ruby.
+Power users of Unix and Linux terminals rely heavily on Bash and Zsh, don't they?
+Most old school computer programmers still prefer to program in C and C++.
+C, C++, and Java are examples of object-oriented programming languages.
+Scala, Haskell, and OCaml are examples of functional programming languages.
+Scala however, is not purely functional.
+Scala is a functional first language, but also offers support for object-oriented programming.
+Of course all computer programming languages ultimately owe a great deal to the discipline of mathematics.
+However, my favorite computer language of all is without question, SCALA!!!
